@@ -1,5 +1,14 @@
-div {
-  float: left;
-  width: 20%;
+body {
   text-align: center;
+}
+
+div {
+ 
+  float: left;
+  width: 300px;
+  
+}
+
+div p {
+  color: blue;
 }
