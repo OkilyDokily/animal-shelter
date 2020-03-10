@@ -6,9 +6,17 @@ div {
  
   float: left;
   width: 300px;
+  border: violet solid;
+  margin: 20px;
+  height: 420px;
+  padding: 20px;
   
 }
 
 div p {
   color: blue;
+}
+
+div h2 {
+  color: red;
 }
