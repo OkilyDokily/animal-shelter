@@ -4,7 +4,7 @@ body {
   width: 80%;
 }
 
-div.animal {
+div div {
  
   float: left;
   width: 300px;
@@ -13,6 +13,13 @@ div.animal {
   height: 420px;
   padding: 20px;
   
+}
+
+div.intro {
+ 
+  margin:auto;
+  padding-left: 30px;
+
 }
 
 div p {
