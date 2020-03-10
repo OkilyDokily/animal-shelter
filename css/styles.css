@@ -1,8 +1,10 @@
 body {
   text-align: center;
+  margin: auto;
+  width: 80%;
 }
 
-div {
+div.animal {
  
   float: left;
   width: 300px;
