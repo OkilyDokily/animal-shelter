@@ -1,6 +1,6 @@
 # _Animal Shelter_
 
-#### _This demonstrates knowledge of basic Markup._
+#### _This demonstrates knowledge of basic HTML/CSS._
 
 #### By _**Matthew**_
 
