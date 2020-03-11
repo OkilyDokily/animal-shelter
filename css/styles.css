@@ -16,9 +16,10 @@ div div {
 }
 
 div.intro {
- 
-  margin:auto;
-  padding-left: 30px;
+  width: 1060px;
+  margin:20px;
+  padding: 20px;
+  float: left;
 
 }
 
@@ -28,4 +29,23 @@ div p {
 
 div h2 {
   color: red;
+}
+
+@media screen and  (max-width:1459px){
+  div.intro {
+    width: 688px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+  }
+} 
+
+@media screen and (max-width:978px)
+{
+  div.intro {
+    width: 315px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+  }
 }
